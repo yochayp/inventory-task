@@ -1,0 +1,36 @@
+.justify-content-between{
+    padding: 10px;
+}
+.amount-cell{
+    padding-left: 30px;
+}
+.list-header {
+    padding-left: 100px;
+}
+.table {
+    padding-top: 30px;
+    border-radius: '5px!important';
+}
+.utils {
+    justify-content: center;
+    margin-bottom: -10px;
+}
+.plus{
+    margin-right: 8px;
+    margin-top: -7px;
+    padding-right: 10px;
+}
+.minus{
+    margin-right: 8px;
+    margin-top: -7px;
+    padding-left: 20px;
+}
+.plus-minus {
+    margin-left: 8px;
+    margin-top: -7px;
+    padding-left: 10px;
+}
+.remove {
+    margin-left: 8px;
+    margin-top: -7px;
+}

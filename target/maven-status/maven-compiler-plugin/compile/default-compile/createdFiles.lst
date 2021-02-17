@@ -1,0 +1,6 @@
+com\example\inventory\api\ItemController.class
+com\example\inventory\InventoryApplication.class
+com\example\inventory\repository\ItemRepository.class
+com\example\inventory\dao\ItemDao.class
+com\example\inventory\service\ItemService.class
+com\example\inventory\model\Item.class
